@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/chandra_pretam" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_pretam?logo=twitter&style=for-the-badge" alt="chandra_pretam" /></a> </p>
 
-- 🔭 I’m currently working on **medical image processing using deep learning**
+- 🔭 I’m currently working to build **Real-Life Python Projects**
 
 - 🌱 I’m currently making myself familier with real-life **Data Science Problems**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **Data Science and Data Analytics Projects**
 
-- 💬 Ask me about **pytorch, pyqt5, deep learning etc**
+- 💬 Ask me about **Python, Tableau, SQL, PyTorch, Pyqt6, Deep Learning, MS Excel, Linux etc**
 
-- 📫 How to reach me **pretam591@gmail.com**
+- 📫 Reach me on:- **pretam591@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PfDI5cU_LfDx3i-Vgb3H_UL2cKfhhcxtXOLRAGkT_dY/edit?usp=sharing](https://docs.google.com/document/d/1PfDI5cU_LfDx3i-Vgb3H_UL2cKfhhcxtXOLRAGkT_dY/edit?usp=sharing)
+- 📄 Know about my experiences:-
+[resume2023-pretamchandra.pdf](https://github.com/pretam591/pretam591/files/12236400/resume2023-pretamchandra.pdf)
+
 
 - ⚡ Fun fact **I dreamt to become a Cricketer**
 
